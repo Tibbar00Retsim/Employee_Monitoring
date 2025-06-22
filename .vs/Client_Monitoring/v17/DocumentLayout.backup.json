@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Employer_Monitoring\\Client\\Client_Monitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08393EE3-99AC-4B2C-8C9B-878714E7323E}|Client_Monitoring\\Client_Monitoring.vcxproj|C:\\Users\\user\\Desktop\\Employer_Monitoring\\Client\\Client_Monitoring\\Client_Monitoring\\Client_Monitoring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08393EE3-99AC-4B2C-8C9B-878714E7323E}|Client_Monitoring\\Client_Monitoring.vcxproj|solutionrelative:Client_Monitoring\\Client_Monitoring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client_Monitoring.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Employer_Monitoring\\Client\\Client_Monitoring\\Client_Monitoring\\Client_Monitoring.cpp",
+              "RelativeDocumentMoniker": "Client_Monitoring\\Client_Monitoring.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Employer_Monitoring\\Client\\Client_Monitoring\\Client_Monitoring\\Client_Monitoring.cpp",
+              "RelativeToolTip": "Client_Monitoring\\Client_Monitoring.cpp",
+              "ViewState": "AgIAADQBAAAAAAAAAAAAAFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T01:49:50.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

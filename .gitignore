@@ -1,0 +1,8 @@
+# Игнорировать файлы сборки
+/client/Debug/
+/client/Release/
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
